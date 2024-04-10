@@ -1,2 +1,3 @@
 # Ubantu-for-IMX6UL
-Storage imformation
+
+repository for BaiWen IMX6UL
